@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **zaw.linn.htet03@gmail.com**
 
-- ⚡ Fun fact: **I can solve a Rubik's Cube in under 2 minutes 🎲My virtual farm in Stardew Valley is a thriving paradise 🌽🐓**
+- ⚡ Fun fact: **I can solve a Rubik's Cube in under 2 minutes🎲 My virtual farm in Stardew Valley is a thriving paradise🌽🐓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
