@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zaw Linn Htet</h1>
 <h3 align="center">A dedicated computer science student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zawlinnhtet03&label=Profile%20views&color=0e75b6&style=flat" alt="zawlinnhtet03" /> </p>
+
 
 - 🌱 I’m currently learning **JavaScript, React**
 
