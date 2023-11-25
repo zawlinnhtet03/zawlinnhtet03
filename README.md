@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my profiles are available at [https://zawlinnhtet.netlify.app/](https://zawlinnhtet.netlify.app/)
 
-- 💬 Ask me about: **C, C++**
-
 - 📫 How to reach me: **zaw.linn.htet03@gmail.com**
 
 - ⚡ Fun fact: **My virtual farm in Stardew Valley is a thriving paradise🌽🐓**
