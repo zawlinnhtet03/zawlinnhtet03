@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Java, React**
 
-- 👨‍💻 All of my profiles are available at [https://zawlinnhtet.netlify.app/](https://zawlinnhtet.netlify.app/)
+- 👨‍💻 Here is my personal portfolio [https://zawlinnhtet.netlify.app/](https://zawlinnhtet.netlify.app/)
 
 - 📫 How to reach me: **zaw.linn.htet03@gmail.com**
 
