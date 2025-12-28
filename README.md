@@ -1,6 +1,6 @@
 # Zaw Linn Htet
 
-CS undergraduate. enthusiasm: DS + AI + Transformer Models.
+CS undergraduate. DS + AI + Transformers.
 
 ## Links
 
